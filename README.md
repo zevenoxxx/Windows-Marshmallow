@@ -28,7 +28,7 @@ If you are asked for any access permissions, write the word Y. After the operati
 Enter the following command to save the data of the apps you install to your device's storage:
 <p></p>
 <pre class="wp-block-code">
-  <code>cd storage.txt </code>
+  <code>python start.py </code>
 </pre>
 <p></p>
 Enter the following code to install Android Marshmallow:
