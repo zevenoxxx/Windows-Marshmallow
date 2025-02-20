@@ -14,3 +14,41 @@ Get the latest version of the script from the release section. Right-click on th
 The script is available for Android but is currently in the testing phase. To use, you need to get Termux GitHub Version. Get the prerequisite packages and do the following:
 <p></p>
 Enter the following command to extract the prerequisites via GitHub:
+<p></p>
+<pre class="wp-block-code">
+  <code>git clone https://github.com/zevenoxxx/Windows-Marshmallow.git </code>
+</pre>
+<p></p>
+If you are asked for any access permissions, write the word Y. After the operation is over, now enter the following command:
+<p></p>
+<pre class="wp-block-code">
+  <code>cd WinMarsh </code>
+</pre>
+<p></p>
+Enter the following command to save the data of the apps you install to your device's storage:
+<p></p>
+<pre class="wp-block-code">
+  <code>-cd storage </code>
+</pre>
+<p></p>
+Enter the following code to install Android Marshmallow:
+<p></p>
+<pre class="wp-block-code">
+  <code>bash setup.sh </code>
+</pre>
+<p></p>
+Restart Termux after the installation is complete.
+<p></p>
+<p></p>
+<p></p>
+Now enter the following commands:
+<p></p>
+<pre class="wp-block-code">
+  <code>cd WinMarsh </code>
+</pre>
+<p></p>
+<pre class="wp-block-code">
+  <code>python user.py </code>
+</pre>
+<p></p>
+
