@@ -22,13 +22,13 @@ Enter the following command to extract the prerequisites via GitHub:
 If you are asked for any access permissions, write the word Y. After the operation is over, now enter the following command:
 <p></p>
 <pre class="wp-block-code">
-  <code>cd WinMarsh </code>
+  <code>cd Windows-Marshmallow </code>
 </pre>
 <p></p>
 Enter the following command to save the data of the apps you install to your device's storage:
 <p></p>
 <pre class="wp-block-code">
-  <code>-cd storage </code>
+  <code>cd storage.txt </code>
 </pre>
 <p></p>
 Enter the following code to install Android Marshmallow:
